@@ -33,10 +33,10 @@
 ---
 
 ## 📬 **Contact / Sazinies ar mums:**  
-**LNB-DH – Department of Digital Development**  
-**Latvian National Library / Latvijas Nacionālā bibliotēka**  
+**LNB-DH – Department of Digital Development / Digitālās attīstības departaments**  
+**National Library of Latvia / Latvijas Nacionālā bibliotēka**  
 ✉️ [dh@lnb.lv](mailto:dh@lnb.lv)  
-🌐 [https://lnb.lv](https://lnb.lv)
+🌐 [https://lnb.gov.lv](https://lnb.gov.lv/)
 
 ---
 
