@@ -30,12 +30,15 @@
 - 📜 Includes real-world **examples**, **code snippets**, and **inline documentation**  
   📜 Ietver reālus **piemērus**, **koda fragmentus** un **komentārus tieši pie koda**
 
-## 📬 Contacts / Kontakti
+---
 
-For questions, feedback, or collaboration, feel free to contact us:  
-Jautājumiem, atsauksmēm vai sadarbības piedāvājumiem rakstiet uz:
+##📬 **Contact / Sazinies ar mums:**  
+**LNB-DH – Department of Digital Development**  
+**Latvian National Library / Latvijas Nacionālā bibliotēka**  
+✉️ [dh@lnb.lv](mailto:dh@lnb.lv)  
+🌐 [https://lnb.lv](https://lnb.lv)
 
-**✉️ dh@lnb.lv**
+---
 
 
 
