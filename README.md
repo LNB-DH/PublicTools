@@ -1,5 +1,7 @@
 # 📘 PublicTools
 
+<img src="https://github.com/LNB-DH/PublicTools/blob/main/img/logo/PublicTools_Logo_1024x1024.png?raw=true" alt="LNB-DH Public Tools logo" width="150"/>
+
 **Public Tools for Digital Humanities from the National Library of Latvia – Department of Digital Development**  
 **Publiski pieejami rīki digitālajām humanitārajām zinātnēm no Latvijas Nacionālās bibliotēkas Digitālās attīstības departamenta**
 
