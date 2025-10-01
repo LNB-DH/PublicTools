@@ -1,5 +1,8 @@
-# PublicTools
-Public Tools for Digital Humanities from National Libary of Latvia Department of Digital Development
+# 📘 PublicTools
+
+**Public Tools for Digital Humanities from the National Library of Latvia – Department of Digital Development**  
+**Publiski pieejami rīki digitālajām humanitārajām zinātnēm no Latvijas Nacionālās bibliotēkas Digitālās attīstības departamenta**
+
 
 ![LNB-DH](https://img.shields.io/badge/org-LNB--DH-black)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
