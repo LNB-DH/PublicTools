@@ -38,6 +38,19 @@
 
 ---
 
+## 📓 Notebooks / Piezīmju grāmatas
+
+### 🤖 LLM tools / LVM rīki
+
+Notebook for batch processing text files using Large Language Models (LLMs) via OpenRouter API - requires an API key from [OpenRouter](https://openrouter.ai/).
+Piezīmju grāmata teksta failu pakešapstrādei, izmantojot Lielos Valodas Modeļus (LLM) caur OpenRouter API - nepieciešama API atslēga no [OpenRouter](https://openrouter.ai/).
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/batch_processing.ipynb)
+
+
+
+---
+
 ## 📬 **Contact / Sazinies ar mums:**  
 **LNB-DH – Department of Digital Development / Digitālās attīstības departaments**  
 **National Library of Latvia / Latvijas Nacionālā bibliotēka**  
