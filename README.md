@@ -12,8 +12,8 @@
 
 ## 🛠️ Repository Features / Repozitorija iespējas
 
-- 📂 A growing collection of **public Jupyter Notebooks**  
-  📂 Pieaugoša kolekcija ar **publiskām Jupyter piezīmjdatoru burtnīcām**
+- 📂 A growing collection of **public Jupyter Notebooks - in Python**  
+  📂 Pieaugoša kolekcija ar **publiskām Jupyter piezīmjdatoru burtnīcām - Python valodā**
 
 - 🧠 Focus on **text processing**, **markup**, **tagging**, **NLP**, **LLMs**, and **data analysis**  
   🧠 Uzsvars uz **teksta apstrādi**, **marķēšanu**, **tagošanu**, **NLP**, **LLM rīkiem** un **datu analīzi**
