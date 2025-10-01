@@ -32,7 +32,7 @@
 
 ---
 
-##📬 **Contact / Sazinies ar mums:**  
+## 📬 **Contact / Sazinies ar mums:**  
 **LNB-DH – Department of Digital Development**  
 **Latvian National Library / Latvijas Nacionālā bibliotēka**  
 ✉️ [dh@lnb.lv](mailto:dh@lnb.lv)  
