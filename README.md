@@ -30,5 +30,12 @@
 - 📜 Includes real-world **examples**, **code snippets**, and **inline documentation**  
   📜 Ietver reālus **piemērus**, **koda fragmentus** un **komentārus tieši pie koda**
 
+## 📬 Contacts / Kontakti
+
+For questions, feedback, or collaboration, feel free to contact us:  
+Jautājumiem, atsauksmēm vai sadarbības piedāvājumiem rakstiet uz:
+
+**✉️ dh@lnb.lv**
+
 
 
