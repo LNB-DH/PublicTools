@@ -46,7 +46,16 @@
 Piezīmju grāmata teksta failu pakešapstrādei, izmantojot Lielos Valodas Modeļus (LLM) caur OpenRouter API - nepieciešama API atslēga no [OpenRouter](https://openrouter.ai/).
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/batch_processing.ipynb)
 
+###  📄🔁💾 IO / datu iegūšana un saglabāšana
 
+* Notebook for stratified sampling of documents from a folder with zip archives.
+Piezīmju grāmata dokumentu stratificētai izlasei no mapes ar zip arhīviem.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/io/get_samples.ipynb)
+
+### 📝 Text processing / Teksta apstrāde
+
+* Notebook for text processing tasks such as tokenization, lemmatization, and named entity recognition.
+Piezīmju grāmata teksta apstrādes uzdevumiem, piemēram, tokenizācijai, lemmatizācijai un nosaukumu entītiju atpazīšanai.
 
 ---
 
