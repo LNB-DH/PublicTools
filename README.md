@@ -52,6 +52,10 @@ Piezīmju grāmata teksta failu pakešapstrādei, izmantojot Lielos Valodas Mode
 Piezīmju grāmata dokumentu stratificētai izlasei no mapes ar zip arhīviem.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/io/get_samples.ipynb)
 
+* Notebook for filtering and extracting specific files from ZIP archives based on filename patterns.
+Piezīmju grāmata konkrētu failu filtrēšanai un izguvei no ZIP arhīviem, pamatojoties uz failu nosaukumu modeļiem.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/io/filter_zip.ipynb)
+
 ### 📝 Text processing / Teksta apstrāde
 
 * Notebook for text processing tasks such as tokenization, lemmatization, and named entity recognition.
