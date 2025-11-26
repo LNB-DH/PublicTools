@@ -46,6 +46,10 @@
 Piezīmju grāmata teksta failu pakešapstrādei, izmantojot Lielos Valodas Modeļus (LLM) caur OpenRouter API - nepieciešama API atslēga no [OpenRouter](https://openrouter.ai/).
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/batch_processing.ipynb)
 
+* Notebook for bulk provisioning OpenRouter API keys for multiple users - designed for workshops and educational settings.
+Piezīmju grāmata OpenRouter API atslēgu masveida izveidei vairākiem lietotājiem - paredzēta darbnīcām un izglītības pasākumiem.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/provision_open_router_keys_colab.ipynb)
+
 ###  📄🔁💾 IO / datu iegūšana un saglabāšana
 
 * Notebook for stratified sampling of documents from a folder with zip archives.
