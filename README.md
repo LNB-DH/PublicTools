@@ -52,7 +52,7 @@ Piezīmju grāmata OpenRouter API atslēgu masveida izveidei vairākiem lietotā
 
 * Streamlined GUI notebook for provisioning OpenRouter API keys with simple interface - upload CSV, set budget, create keys instantly.
 Vienkāršota GUI piezīmju grāmata OpenRouter API atslēgu izveidei ar ērtu saskarni - augšupielādē CSV, iestatiet budžetu, izveido atslēgas uzreiz.
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/provision_open_router_keys_gui.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/provision_open_router_keys_gui.ipynb?force_copy=true)
 
 ###  📄🔁💾 IO / datu iegūšana un saglabāšana
 
