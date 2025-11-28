@@ -50,6 +50,10 @@ Piezīmju grāmata teksta failu pakešapstrādei, izmantojot Lielos Valodas Mode
 Piezīmju grāmata OpenRouter API atslēgu masveida izveidei vairākiem lietotājiem - paredzēta darbnīcām un izglītības pasākumiem.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/provision_open_router_keys_colab.ipynb)
 
+* Streamlined GUI notebook for provisioning OpenRouter API keys with simple interface - upload CSV, set budget, create keys instantly.
+Vienkāršota GUI piezīmju grāmata OpenRouter API atslēgu izveidei ar ērtu saskarni - augšupielādē CSV, iestatiet budžetu, izveido atslēgas uzreiz.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/provision_open_router_keys_gui.ipynb)
+
 ###  📄🔁💾 IO / datu iegūšana un saglabāšana
 
 * Notebook for stratified sampling of documents from a folder with zip archives.
