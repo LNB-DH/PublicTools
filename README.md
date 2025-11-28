@@ -51,11 +51,11 @@ Piezīmju grāmata OpenRouter API atslēgu masveida izveidei vairākiem lietotā
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/provision_open_router_keys_colab.ipynb)
 
 * Streamlined GUI notebook for provisioning OpenRouter API keys with simple interface - upload CSV, set budget, create keys instantly.
-Vienkāršota GUI piezīmju grāmata OpenRouter API atslēgu izveidei ar ērtu saskarni - augšupielādē CSV, iestatiet budžetu, izveido atslēgas uzreiz.
+Vienkāršota GUI piezīmju grāmata OpenRouter API atslēgu izveidei ar ērtu saskarni - augšupielādē CSV, iestata budžetu, izveido atslēgas.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/provision_open_router_keys_gui.ipynb?force_copy=true)
 
 * GUI notebook for managing OpenRouter API keys - load all keys in an interactive table, select keys to delete, and bulk delete with confirmation.
-GUI piezīmju grāmata OpenRouter API atslēgu pārvaldībai - ielādē visas atslēgas interaktīvā tabulā, izvēlies atslēgas dzēšanai un dzēš masveida ar apstiprinājumu.
+GUI piezīmju grāmata OpenRouter API atslēgu pārvaldībai - ielādē visas atslēgas interaktīvā tabulā, izvēlies atslēgas dzēšanai un tad dzēs masveidā ar apstiprinājumu.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/PublicTools/blob/main/notebooks/llm/manage_open_router_keys_gui.ipynb?force_copy=true)
 
 ###  📄🔁💾 IO / datu iegūšana un saglabāšana
